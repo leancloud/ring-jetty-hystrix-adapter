@@ -1,4 +1,4 @@
-(defproject cn.leancloud/ring-jetty-hystrix-adapter "0.2.6"
+(defproject cn.leancloud/ring-jetty-hystrix-adapter "0.2.7"
   :description "Setup a Hystrix (https://github.com/Netflix/Hystrix) event stream with jetty for clojure."
   :url "http://github.com/leancloud/ring-jetty-hystrix-adapter"
   :license {:name "Eclipse Public License"

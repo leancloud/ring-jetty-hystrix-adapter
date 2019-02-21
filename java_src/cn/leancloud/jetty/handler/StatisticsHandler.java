@@ -564,7 +564,7 @@ public class StatisticsHandler extends HandlerWrapper implements Graceful {
     }
 
     @ManagedOperation(impact = "ACTION")
-    public void requestReset() {
+    public void requestsReset() {
         _requestStats.reset();
     }
 
